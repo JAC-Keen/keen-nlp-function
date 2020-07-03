@@ -6,3 +6,7 @@ Together we will walk through a project that focuses on building a feedback loop
 First we're creating a feedback form that turns a string of feedback to json to be processed by our cloud function.
 Second, we're attaching a sentiment analysis and magnitude score to the the feedback.
 Last that review_text event is stored in Keen which can be viewed in the "Streams" tab of your Keen dashboard.
+
+Demo Site: https://jac-keen.github.io/keen-nlp-function/
+
+Dashboard Site: https://dashboards.keen.io/?id=5ea1c04f1e421c0016e5bad7&projectId=5c2e3be8c9e77c0001ed971f&accessKey=62208E6C153F6B7E89D3C3982F4956443E51B3055922BF6AA1C57400C1E123A6#/
