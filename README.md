@@ -1,7 +1,7 @@
 # keen-nlp-function
 Keen Feedback Pipeline using Google's Natural Language Processesing API and GCPs Serverless Functions.
 
-![flow chart](https://github.com/JAC-Keen/keen-nlp-function/blob/master/valentine%20function.png)
+![flow chart](https://github.com/JAC-Keen/keen-nlp-function/blob/master/valentinefunction.png)
 
 
 Tutorial: https://keen.io/blog/tutorial-keen-nlp-sentiment-analysis-made-easy/
